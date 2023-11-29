@@ -1,4 +1,4 @@
-# DSNoC
+# Dynamically Scalable NoC (DSNoC)
 The repository has two architectures of Dynamically Scalable Network-on-Chip (DSNoC).
 
 # Article: Dynamically Scalable NoC Architecture for Implementing Run-Time Reconfigurable Applications
